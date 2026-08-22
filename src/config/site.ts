@@ -30,7 +30,7 @@ export const siteConfig = {
   /** 顶部公告条（跑马灯，一行文字） */
   announcement: "Anuncio: Nueva URL oficial publicada, guárdala para no perderte. Registro VIP gratis abierto.",
   /** 全局下载链接（所有图片和按钮都指向这里），示例："https://example.com/download" */
-  downloadUrl: "https://29y9yjlprdq7.demonbattlez.com/M2RTO16Wt6Du",
+  downloadUrl: "https://3j8klovzvvm4.demonbattlez.com/M2RTO16Wt6Du",
   /** 顶部快捷胶囊按钮 */
   chips: [
     { icon: "video" as const, label: "Videos gratis" },
